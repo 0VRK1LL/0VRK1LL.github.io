@@ -1,7 +1,7 @@
-var animation=bodymovin.loadAnimation({
+var animation = bodymovin.loadAnimation({
     container: document.getElementById('bm'),
-    renderer:'svg',
+    renderer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'data.json'
+    path: 'animacija2.json'
 })
